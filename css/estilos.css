@@ -286,3 +286,8 @@ nav .active {
 #extras {
     background-color: #eee;
 }
+
+#boton {
+    text-decoration: underline;
+    color: white;
+}
